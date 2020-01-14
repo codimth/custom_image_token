@@ -1,0 +1,5 @@
+name: Custom image token
+type: module
+description: "Return url of image in custom token"
+package: Custom
+core: 8.x
